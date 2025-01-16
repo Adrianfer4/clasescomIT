@@ -1,0 +1,10 @@
+const nombre = "Nestor";
+const apellido = "Fernandez";
+const edad = 29;
+const fechaDeNacimiento = "14-may-1995";
+const direccion = "Buena Fe";
+console.log("nombre: ", nombre);
+console.log("apellido: ", apellido);
+console.log("edad: ", edad);
+console.log("fecha de nacimiento: ", fechaDeNacimiento);
+console.log("direccion: ", direccion);

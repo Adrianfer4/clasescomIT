@@ -1,0 +1,15 @@
+const nombre = "Nestor";
+const nroAula = 2;
+const aprueba = true;
+const asiste = undefined;
+const notas = null;
+console.log("nombre: ", nombre);
+console.log("nroAula: ", nroAula);
+console.log("aprueba: ", aprueba);
+console.log("asiste: ", asiste);
+console.log("notas: ", notas);
+console.log("nombre: ", typeof nombre);
+console.log("nroAula: ", typeof nroAula);
+console.log("aprueba: ", typeof aprueba);
+console.log("asiste: ", typeof asiste);
+console.log("notas: ", typeof notas);
