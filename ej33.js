@@ -1,0 +1,10 @@
+let cantidadDeUsuarios = 100;
+cantidadDeUsuarios += 5;
+console.log(`Cantidad de usuarios: ${cantidadDeUsuarios}`);
+cantidadDeUsuarios -= 3;
+console.log(`Cantidad de usuarios: ${cantidadDeUsuarios}`);
+cantidadDeUsuarios *= 2;
+console.log(`Cantidad de usuarios: ${cantidadDeUsuarios}`);
+let hombres = cantidadDeUsuarios / 2;
+let mujeres = cantidadDeUsuarios / 2;
+console.log(`Cantidad de usuarios: ${cantidadDeUsuarios} mujeres ${mujeres} y ${hombres}`);
