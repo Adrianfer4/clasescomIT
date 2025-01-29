@@ -1,11 +1,7 @@
 function autenticarUsuario(usuario, password){
-    if ((usuario === "nacho" && password === "Nerd1979") ||
+    return (usuario === "nacho" && password === "Nerd1979") ||
         (usuario === "pedro" && password === "Batman0217") ||
-        (usuario === "marta" && password === "Madre2312")) {
-        return true;
-    }else{
-        return false;
-    }
+        (usuario === "marta" && password === "Madre2312");
 }
 
 function probarAutenticacion(usuario, password) {
