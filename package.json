@@ -7,5 +7,15 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "Codigo que usamos en las clases de ComIT",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adrianfer4/clasescomIT.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Adrianfer4/clasescomIT/issues"
+  },
+  "homepage": "https://github.com/Adrianfer4/clasescomIT#readme"
 }

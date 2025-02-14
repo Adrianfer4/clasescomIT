@@ -1,0 +1,1 @@
+//en un iterador yo usaria arrow function porque este heredaria el this del contexto donde fue definida esto me evitara tener problemas al acceder a las propiedades del objeto dentro del iterador
