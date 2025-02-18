@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 function sumarNumeros(inicio, fin) {
     var resultado = 0;
     for (var i = inicio; i <= fin; i++) {
@@ -10,4 +8,3 @@ function sumarNumeros(inicio, fin) {
 console.log(sumarNumeros(0, 10));
 console.log(sumarNumeros(20, 30));
 console.log(sumarNumeros(5, 50));
-exports.default = {};

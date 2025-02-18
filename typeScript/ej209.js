@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 var IconsZise;
 (function (IconsZise) {
     IconsZise[IconsZise["SMALL"] = 8] = "SMALL";
@@ -16,4 +14,3 @@ function showIcon(nombre, tamanio) {
 }
 showIcon(icono.nombre("wave"), IconsZise.XL);
 showIcon("muscle", IconsZise.SMALL);
-exports.default = {};
